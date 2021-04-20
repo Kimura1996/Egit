@@ -4,7 +4,7 @@ import java.io.*;
 public class P1U6 {
 	
 	public static void main(String[] args) throws IOException {
-		
+		//Comentario Githuub
 	FileWriter fw = null;
 	String nombrefichero="C:\\Users\\maran\\Documents\\archivos\\Programacion\\pruebaficheros.txt";
 	
